@@ -29,7 +29,7 @@ I am a developer experienced in a variety of technologies and frameworks, passio
 This **Artificial Intelligence** project aims to detect fraud in credit card transactions. It uses machine learning techniques to classify transactions as legitimate or fraudulent, ensuring financial security.
 
 - **Technologies**: **Python**, **pandas**, **numpy**, **scikit-learn**  
-- **Link**: [View Project](https://github.com/ShadeCoder7/credit-card-fraud-detection)
+- **Link**: [View Project](https://github.com/ShadeCoder7/credit-card-fraud-detection){:target="_blank"}
 
 ---
 
@@ -38,7 +38,7 @@ This **Artificial Intelligence** project aims to detect fraud in credit card tra
 This is my personal portfolio where you can view all of my projects and learn more about me. The website reflects my work as a developer, built with **Astro** and **TailwindCSS** for a modern and appealing experience.
 
 - **Technologies**: **Astro**, **TailwindCSS**, **JavaScript**, **HTML**, **CSS**  
-- **Link**: [Visit My Portfolio](https://ericm-dev-portfolio.netlify.app/)
+- **Link**: [Visit My Portfolio](https://ericm-dev-portfolio.netlify.app/){:target="_blank"}
 
 ---
 
@@ -66,8 +66,8 @@ A system designed to manage educational data: grades, students, teachers, and cl
 
 ## 📫 How to Contact Me?
 
-- **LinkedIn**: [Eric Moya Carmona](https://www.linkedin.com/in/eric-moya-carmona-011016251)
-- **Portfolio Web**: [Visit My Portfolio](https://ericm-dev-portfolio.netlify.app/)
+- **LinkedIn**: [Eric Moya Carmona](https://www.linkedin.com/in/eric-moya-carmona-011016251){:target="_blank"}
+- **Portfolio Web**: [Visit My Portfolio](https://ericm-dev-portfolio.netlify.app/){:target="_blank"}
 <!--- - **Email**: [your-email@example.com](mailto:your-email@example.com) *(Optional)*
 --->
 
@@ -104,7 +104,7 @@ Soy un desarrollador con experiencia en varias tecnologías y frameworks, apasio
 Este proyecto de **Inteligencia Artificial** (IA) busca identificar fraudes en transacciones con tarjetas de crédito. Utiliza técnicas de aprendizaje automático para clasificar transacciones como legítimas o fraudulentas, garantizando seguridad financiera.
 
 - **Tecnologías**: **Python**, **pandas**, **numpy**, **scikit-learn**  
-- **Link**: [Ver Proyecto](#)
+- **Link**: [Ver Proyecto](https://github.com/ShadeCoder7/credit-card-fraud-detection){:target="_blank"}
 
 ---
 
@@ -113,7 +113,7 @@ Este proyecto de **Inteligencia Artificial** (IA) busca identificar fraudes en t
 Este es mi portfolio personal donde podrás ver todos mis proyectos y obtener más detalles sobre mí. Esta web es el reflejo de mi trabajo como desarrollador, diseñada con **Astro** y **TailwindCSS** para ofrecer una experiencia moderna y atractiva.
 
 - **Tecnologías**: **Astro**, **TailwindCSS**, **JavaScript**, **HTML**, **CSS**  
-- **Link**: [Visita mi Portfolio](https://ericm-dev-portfolio.netlify.app/)
+- **Link**: [Visita mi Portfolio](https://ericm-dev-portfolio.netlify.app/){:target="_blank"}
 
 ---
 
@@ -141,8 +141,8 @@ Un sistema diseñado para gestionar datos educativos: notas, estudiantes, profes
 
 ## 📫 ¿Cómo contactarme?
 
-- **LinkedIn**: [Eric Moya Carmona](https://www.linkedin.com/in/eric-moya-carmona-011016251)
-- **Portfolio Web**: [Visita mi Portfolio](https://ericm-dev-portfolio.netlify.app/)
+- **LinkedIn**: [Eric Moya Carmona](https://www.linkedin.com/in/eric-moya-carmona-011016251){:target="_blank"}
+- **Portfolio Web**: [Visita mi Portfolio](https://ericm-dev-portfolio.netlify.app/){:target="_blank"}
 <!--- - **Email**: [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com) *(Opcional)*
 --->
 
