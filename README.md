@@ -23,8 +23,8 @@ Otros: Git, Machine Learning, Figma
 
 📫 ¿Cómo contactarme?
 
-LinkedIn: tu-perfil-linkedin
-Portfolio Web: 
+LinkedIn: https://www.linkedin.com/in/eric-moya-carmona-011016251
+Portfolio Web: https://ericm-dev-portfolio.netlify.app/
 
 
 <!---
