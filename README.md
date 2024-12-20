@@ -29,7 +29,7 @@ I am a developer experienced in a variety of technologies and frameworks, passio
 This **Artificial Intelligence** project aims to detect fraud in credit card transactions. It uses machine learning techniques to classify transactions as legitimate or fraudulent, ensuring financial security.
 
 - **Technologies**: **Python**, **pandas**, **numpy**, **scikit-learn**  
-- **Link**: [View Project](#)
+- **Link**: [View Project](https://github.com/ShadeCoder7/credit-card-fraud-detection)
 
 ---
 
