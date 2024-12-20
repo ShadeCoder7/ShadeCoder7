@@ -1,50 +1,16 @@
 # Hi, I'm Eric Moya 👋  
-**Full-Stack Developer** | Python, Java, JavaScript, React & Machine Learning  
+**Full-Stack Developer**  
 I am a developer experienced in a variety of technologies and frameworks, passionate about learning new tools and techniques to solve real-world problems. Currently, I am focusing on Full-Stack development, Machine Learning, and building scalable solutions.
 
 "Always learning, always building"
 
 ## 📚 Technologies I Work With:
 
-### **Frontend:**
-- React
-- Astro
-- HTML, CSS, TailwindCSS
-
-### **Backend:**
-- Python
-- Java
-- Node.js
-- Django
-
-### **Databases:**
-- MySQL
-- SQL
-- MongoDB
-
-### **Development Tools:**
-- **IDEs & Editors:**
-  - PyCharm
-  - Eclipse
-  - Visual Studio Code
-  - Android Studio
-- **Version Control & Collaboration:**
-  - Git
-  - GitHub
-- **Other Tools:**
-  - Postman
-  - Figma
-
-### **Machine Learning:**
-- **Tools:**
-  - Jupyter Notebook
-  - Kaggle API
-- **Libraries:**
-  - Scikit-learn
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
+### **Frontend:** React, Astro, HTML, CSS, TailwindCSS  
+### **Backend:** Python, Java, Node.js, Django  
+### **Databases:** MySQL, SQL, MongoDB  
+### **Development Tools:** PyCharm, Eclipse, Visual Studio Code, Android Studio, Git, GitHub, Postman, Figma  
+### **Machine Learning:** Jupyter Notebook, Kaggle API, Scikit-learn, pandas, numpy, matplotlib, seaborn  
 
 ## 🚀 Some of My Projects
 
@@ -83,52 +49,18 @@ Link: Coming Soon...
 ---
 
 # Hola, soy Eric Moya 👋  
-**Desarrollador Full-Stack** | Python, Java, JavaScript, React & Machine Learning  
+**Desarrollador Full-Stack**  
 Soy un desarrollador con experiencia en varias tecnologías y frameworks, apasionado por aprender nuevas herramientas y técnicas para resolver problemas reales. Actualmente, estoy enfocando mis esfuerzos en el desarrollo Full-Stack, Machine Learning y en crear soluciones escalables.
 
 "Siempre aprendiendo, siempre creando"
 
 ## 📚 Tecnologías que manejo:
 
-### **Frontend:**
-- React
-- Astro
-- HTML, CSS, TailwindCSS
-
-### **Backend:**
-- Python
-- Java
-- Node.js
-- Django
-
-### **Bases de Datos:**
-- MySQL
-- SQL
-- MongoDB
-
-### **Herramientas de Desarrollo:**
-- **IDEs & Editores:**
-  - PyCharm
-  - Eclipse
-  - Visual Studio Code
-  - Android Studio
-- **Control de Versiones & Colaboración:**
-  - Git
-  - GitHub
-- **Otras Herramientas:**
-  - Postman
-  - Figma
-
-### **Machine Learning:**
-- **Herramientas:**
-  - Jupyter Notebook
-  - Kaggle API
-- **Bibliotecas:**
-  - Scikit-learn
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
+### **Frontend:** React, Astro, HTML, CSS, TailwindCSS  
+### **Backend:** Python, Java, Node.js, Django  
+### **Bases de Datos:** MySQL, SQL, MongoDB  
+### **Herramientas de Desarrollo:** PyCharm, Eclipse, Visual Studio Code, Android Studio, Git, GitHub, Postman, Figma  
+### **Machine Learning:** Jupyter Notebook, Kaggle API, Scikit-learn, pandas, numpy, matplotlib, seaborn  
 
 ## 🚀 Algunos de Mis Proyectos
 
@@ -163,7 +95,6 @@ Link: Próximamente...
 ## 📫 ¿Cómo contactarme?
 - LinkedIn: [Eric Moya Carmona](https://www.linkedin.com/in/eric-moya-carmona-011016251)
 - Portfolio Web: [Visita Mi Portfolio](https://ericm-dev-portfolio.netlify.app/)
-
 
 
 <!---
