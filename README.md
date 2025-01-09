@@ -7,7 +7,8 @@ _"Always learning, always building"_
 ## 📚 Technologies I Work With:
 
 ### 🌐 **Frontend:** 
-- React  
+- JavaScript
+- React
 - Astro  
 - HTML, CSS, TailwindCSS  
 
