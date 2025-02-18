@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Eric Moya 👋  
-**Full-Stack Developer**  
+**Software Developer**  
 I am a developer experienced in a variety of technologies and frameworks, passionate about learning new tools and techniques to solve real-world problems. Currently, I am focusing on Full-Stack development, Machine Learning, and building scalable solutions.
 
 _"Always learning, always building"_
