@@ -19,7 +19,9 @@ _"Always learning, always building"_
 - Django  
 
 ### 🗄️ **Databases:**  
-- MySQL  
+- MySQL
+- PostgreSQL
+- ObjectDB
 - SQL  
 - MongoDB  
 
