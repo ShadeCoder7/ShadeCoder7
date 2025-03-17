@@ -6,53 +6,54 @@ _"Always learning, always building"_
 
 ## 📚 Technologies I Work With:
 
-🌐 **Frontend:**
+## 🌐 Frontend:
 - JavaScript
 - React
 - Astro
 - HTML, CSS, TailwindCSS
 
-💻 **Backend:**
+## 💻 Backend:
 - Python
 - Java
 - Node.js
 - Django
 
-🗄️ **Databases:**
+## 🗄️ Databases:
 - MySQL
 - PostgreSQL
 - ObjectDB
 - SQL
 - MongoDB
 
-⚙️ **Development Tools:**
+## ⚙️ Development Tools:
 
-🧑‍💻 **IDEs & Editors:**
+### 🧑‍💻 IDEs & Editors:
 - PyCharm
 - Eclipse
 - Visual Studio Code
 - Android Studio
 - Apache NetBeans
 
-🔧 **Tools:**
+### 🔧 Tools:
 - Git
 - GitHub
 - Postman
 - Figma
 - Framer
 
-🤖 **Machine Learning:**
+## 🤖 Machine Learning:
 
-🔬 **Tools:**
+### 🔬 Tools:
 - Jupyter Notebook
 - Kaggle API
 
-📚 **Libraries:**
+### 📚 Libraries:
 - Scikit-learn
 - pandas
 - numpy
 - matplotlib
 - seaborn
+
 
 ## 🚀 Some of My Projects
 
@@ -101,29 +102,57 @@ _"Siempre aprendiendo, siempre creando"_
 
 ## 📚 Tecnologías que manejo:
 
-### 🌐 **Frontend:**  
-- React  
-- Astro  
-- HTML, CSS, TailwindCSS  
+## 🌐 Frontend:
+- JavaScript
+- React
+- Astro
+- HTML, CSS, TailwindCSS
 
-### 💻 **Backend:**  
-- Python  
-- Java  
-- Node.js  
-- Django  
+## 💻 Backend:
+- Python
+- Java
+- Node.js
+- Django
 
-### 🗄️ **Bases de Datos:**  
-- MySQL  
-- SQL  
-- MongoDB  
+## 🗄️ Bases de datos:
+- MySQL
+- PostgreSQL
+- ObjectDB
+- SQL
+- MongoDB
 
-### ⚙️ **Herramientas de Desarrollo:**  
-- **🧑‍💻 IDEs & Editores:** PyCharm, Eclipse, Visual Studio Code, Android Studio  
-- **🔧 Herramientas:** Git, GitHub, Postman, Figma  
+## ⚙️ Herramientas de desarrollo:
 
-### 🤖 **Machine Learning:**  
-- **🔬 Herramientas:** Jupyter Notebook, Kaggle API  
-- **📚 Librerías:** Scikit-learn, pandas, numpy, matplotlib, seaborn  
+### 🧑‍💻 IDEs y editores:
+- PyCharm
+- Eclipse
+- Visual Studio Code
+- Android Studio
+- Apache NetBeans
+
+### 🔧 Herramientas:
+- Git
+- GitHub
+- Postman
+- Figma
+- Framer
+
+## 🌐 Redes:
+- Conexiones TCP
+- Conexiones UDP
+
+## 🤖 Machine Learning:
+
+### 🔬 Herramientas:
+- Jupyter Notebook
+- Kaggle API
+
+### 📚 Bibliotecas:
+- Scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn 
 
 ## 🚀 Algunos de Mis Proyectos
 
