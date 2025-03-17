@@ -6,32 +6,53 @@ _"Always learning, always building"_
 
 ## 📚 Technologies I Work With:
 
-### 🌐 **Frontend:** 
+🌐 **Frontend:**
 - JavaScript
 - React
-- Astro  
-- HTML, CSS, TailwindCSS  
+- Astro
+- HTML, CSS, TailwindCSS
 
-### 💻 **Backend:**  
-- Python  
-- Java  
-- Node.js  
-- Django  
+💻 **Backend:**
+- Python
+- Java
+- Node.js
+- Django
 
-### 🗄️ **Databases:**  
+🗄️ **Databases:**
 - MySQL
 - PostgreSQL
 - ObjectDB
-- SQL  
-- MongoDB  
+- SQL
+- MongoDB
 
-### ⚙️ **Development Tools:**  
-- **🧑‍💻 IDEs & Editors:** PyCharm, Eclipse, Visual Studio Code, Android Studio  
-- **🔧 Tools:** Git, GitHub, Postman, Figma  
+⚙️ **Development Tools:**
 
-### 🤖 **Machine Learning:**  
-- **🔬 Tools:** Jupyter Notebook, Kaggle API  
-- **📚 Libraries:** Scikit-learn, pandas, numpy, matplotlib, seaborn  
+🧑‍💻 **IDEs & Editors:**
+- PyCharm
+- Eclipse
+- Visual Studio Code
+- Android Studio
+- Apache NetBeans
+
+🔧 **Tools:**
+- Git
+- GitHub
+- Postman
+- Figma
+- Framer
+
+🤖 **Machine Learning:**
+
+🔬 **Tools:**
+- Jupyter Notebook
+- Kaggle API
+
+📚 **Libraries:**
+- Scikit-learn
+- pandas
+- numpy
+- matplotlib
+- seaborn
 
 ## 🚀 Some of My Projects
 
