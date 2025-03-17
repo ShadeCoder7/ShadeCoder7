@@ -6,53 +6,60 @@ _"Always learning, always building"_
 
 ## 📚 Technologies I Work With:
 
-## 🌐 Frontend:
-- JavaScript
-- React
-- Astro
-- HTML, CSS, TailwindCSS
+## 🌐 **Frontend:**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Astro](https://img.shields.io/badge/Astro-FF5F00?style=flat-square&logo=astro&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 💻 Backend:
-- Python
-- Java
-- Node.js
-- Django
+## 💻 **Backend:**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
+- ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-## 🗄️ Databases:
-- MySQL
-- PostgreSQL
-- ObjectDB
-- SQL
-- MongoDB
+## 🗄️ **Databases:**
+- ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![ObjectDB](https://img.shields.io/badge/ObjectDB-1C3F75?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zZWFyY2gveG1sIHBhdGg9IiB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAhIj4gPHBhdGggZD0iTTEwMCAxOTAgQzEwMCAyMDQgMTAwIDIwMCA2MCA0MCBMIDYwIDMyIFoiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSI4MCIgc3Ryb2tlLWxpbmVjPSIxNSIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==)
+- ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## ⚙️ Development Tools:
+## ⚙️ **Development Tools:**
 
-### 🧑‍💻 IDEs & Editors:
-- PyCharm
-- Eclipse
-- Visual Studio Code
-- Android Studio
-- Apache NetBeans
+### 🧑‍💻 **IDEs & Editors:**
+- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+- ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+- ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+- ![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-009CDE?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 
-### 🔧 Tools:
-- Git
-- GitHub
-- Postman
-- Figma
-- Framer
+### 🔧 **Tools:**
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- ![Framer](https://img.shields.io/badge/Framer-0061F2?style=flat-square&logo=framer&logoColor=white)
 
-## 🤖 Machine Learning:
+## 🌐 **Networking:**
+- TCP Connections
+- UDP Connections
 
-### 🔬 Tools:
-- Jupyter Notebook
-- Kaggle API
+## 🤖 **Machine Learning:**
 
-### 📚 Libraries:
-- Scikit-learn
-- pandas
-- numpy
-- matplotlib
-- seaborn
+### 🔬 **Tools:**
+- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FF5A5F?style=flat-square&logo=jupyter&logoColor=white)
+- ![Kaggle API](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
+### 📚 **Libraries:**
+- ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+- ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+- ![numpy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+- ![matplotlib](https://img.shields.io/badge/matplotlib-003B57?style=flat-square&logo=matplotlib&logoColor=white)
+- ![seaborn](https://img.shields.io/badge/seaborn-0096FF?style=flat-square&logo=seaborn&logoColor=white)
+
 
 
 ## 🚀 Some of My Projects
