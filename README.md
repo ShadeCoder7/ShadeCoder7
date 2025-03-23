@@ -23,7 +23,7 @@ _"Always learning, always building"_
 ## 🗄️ **Databases:**
 - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-- ![ObjectDB](https://img.shields.io/badge/ObjectDB-1C3F75?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zZWFyY2gveG1sIHBhdGg9IiB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAhIj4gPHBhdGggZD0iTTEwMCAxOTAgQzEwMCAyMDQgMTAwIDIwMCA2MCA0MCBMIDYwIDMyIFoiIHN0cm9rZT0ibm9uZSIgc3Ryb2tlLXdpZHRoPSI4MCIgc3Ryb2tlLWxpbmVjPSIxNSIgZmlsbD0ibm9uZSIvPjwvc3ZnPg==)
+- ![ObjectDB]
 - ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
